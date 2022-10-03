@@ -1,6 +1,12 @@
+// Author  :   Vicen-te
+// Date    :   01/10/2022
+
 /*
-    Suppose you have versions and you want to find out the first bad one, which causes all the following ones to be bad.n[1, 2, ..., n]
-    You are given an API which returns whether is bad. Implement a function to find the first bad version. 
+    Suppose you have versions and you want to find out the first bad one, 
+    which causes all the following ones to be bad.n[1, 2, ..., n].
+
+    You are given an API which returns whether is bad. 
+    Implement a function to find the first bad version. 
 
     Ex.
     Input: n = 5, bad = 4
@@ -14,7 +20,7 @@
     1.- Find the number in the middle of the vector.
     2.- Takes a part (first or second), depending on whether or not the target is greater than the middel.
     3.- Change the current left or right part.
-    3.- Do this process until the left reaches the right.
+    4.- It will continue until the left reaches the right.
 
     Time: O(log n)
     Space: O(1)

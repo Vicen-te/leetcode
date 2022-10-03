@@ -1,3 +1,6 @@
+// Author  :   Vicen-te
+// Date    :   01/10/2022
+
 /*
     Given a sorted array of distinct integers and a target value, return the index if the target is found. 
     If not, return the index where it would be if it were inserted in order.
@@ -9,7 +12,7 @@
     1.- Find the number in the middle of the vector.
     2.- Takes a part (first or second), depending on whether or not the target is greater than the middel.
     3.- Change the current left or right part.
-    3.- Do this process until the left exceeds the right.
+    4.- It will continue until the left or the right exceeds the other.
 
     Time: O(log n)
     Space: O(1)

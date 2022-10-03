@@ -1,3 +1,6 @@
+// Author  :   Vicen-te
+// Date    :   02/10/2022
+
 /*
     Given an array, rotate the array to the right by k steps, where k is non-negative.
     Ex. 
