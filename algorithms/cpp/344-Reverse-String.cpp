@@ -1,5 +1,5 @@
 // Author  :   Vicen-te
-// Date    :   02/10/2022
+// Date    :   05/10/2022
 
 /*
     Write a function that reverses a string. 
@@ -12,7 +12,7 @@
 
     1.- Set two pointers (1: position 0, 2: final position).
     2.- Swap the characters in the left and right side of the string, 
-        unitl you get one pointing to the other.
+        unitl you get one points to the other.
 
     Time: O(N) 
     Space: O(1)
