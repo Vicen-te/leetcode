@@ -1,5 +1,5 @@
 // Author  :   Vicen-te
-// Date    :   05/10/2022
+// Date    :   04/10/2022
 
 /*
     Write a function that reverses a string. 

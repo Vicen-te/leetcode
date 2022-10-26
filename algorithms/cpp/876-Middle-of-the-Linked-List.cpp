@@ -9,9 +9,9 @@
     Input: head = [1,2,3,4,5]
     Output: [3,4,5]
 
-    1.- Set two pointers (one takes the next Node / one by one, 
-        two takes the next Node from the Next Node / two by two)
-    2.- Check the two position or the one next to two
+    1.- Set two pointers (one takes the next node / one by one, 
+        two takes the next node from the next node / two by two)
+    2.- Check the position of two or the one next to two
     3.- Continue until the two position or the one next to two is null
 
     Time: O(N) 
