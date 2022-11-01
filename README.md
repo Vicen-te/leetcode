@@ -7,6 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/1-Two-Sum.cpp) |Easy|
+|002|[Two Sum](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/2-Add-Two-Numbers.cpp) |Medium|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/3-Longest-Substring-Without-Repeating-Characters.cpp) |Medium|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](./algorithms/cpp/12-Integer-to-Roman.cpp) |Medium|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./algorithms/cpp/19-Remove-Nth-Node-From-End-of-List.cpp) |Medium|
