@@ -17,6 +17,7 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++]( ./cpp/344-Reverse-String.cpp) |Easy|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| [C++]( ./cpp/377-Combination-Sum-IV.cpp) |Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++]( ./cpp/557-Reverse-Words-in-a-String-III.cpp) |Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++]( ./cpp/392-Is-Subsequence.cpp) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./cpp/704-Binary-Search.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++]( ./cpp/876-Middle-of-the-Linked-List.cpp) |Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](./cpp/977-Squares-of-a-Sorted-Array.cpp) |Easy| 
