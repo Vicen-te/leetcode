@@ -20,6 +20,7 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./algorithms/cpp/283-Move-Zeroes.cpp) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++]( ./algorithms/cpp/344-Reverse-String.cpp) |Easy|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| [C++]( ./algorithms/cpp/377-Combination-Sum-IV.cpp) |Medium|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [C++]( ./algorithms/cpp/389-Find-the-Difference.cpp) |Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++]( ./algorithms/cpp/392-Is-Subsequence.cpp) |Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++]( ./algorithms/cpp/557-Reverse-Words-in-a-String-III.cpp) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./algorithms/cpp/704-Binary-Search.cpp) |Easy|
