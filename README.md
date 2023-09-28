@@ -25,6 +25,7 @@ LeetCode
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++]( ./algorithms/cpp/557-Reverse-Words-in-a-String-III.cpp) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./algorithms/cpp/704-Binary-Search.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++]( ./algorithms/cpp/876-Middle-of-the-Linked-List.cpp) |Easy|
+|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)| [C++]( ./cpp/880-Decoded-String-at-Index.cpp) |Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](./algorithms/cpp/977-Squares-of-a-Sorted-Array.cpp) |Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C++](./algorithms/cpp/1768-Merge-Strings-Alternately.cpp) |Easy| 
 
