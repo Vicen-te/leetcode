@@ -26,6 +26,7 @@ LeetCode
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./algorithms/cpp/704-Binary-Search.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++]( ./algorithms/cpp/876-Middle-of-the-Linked-List.cpp) |Easy|
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)| [C++]( ./algorithms/cpp/880-Decoded-String-at-Index.cpp) |Medium|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [C++]( ./algorithms/cpp/896-Monotonic-Array.cpp) |Easy|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [C++]( ./algorithms/cpp/905-Sort-Array-By-Parity.cpp) |Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](./algorithms/cpp/977-Squares-of-a-Sorted-Array.cpp) |Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./algorithms/cpp/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |Easy| 
