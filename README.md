@@ -14,6 +14,7 @@ LeetCode
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./algorithms/cpp/35-Search-Insert-Position.cpp) |Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./algorithms/cpp/118.-Pascal's-Triangle.cpp) |Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](./algorithms/cpp/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) |Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](./algorithms/cpp/169-Majority-Element.cpp) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./algorithms/cpp/189-Rotate-Array.cpp) |Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [C++](./algorithms/cpp/237-Delete-Node-in-a-Linked-List.cpp) |Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./algorithms/cpp/278-First-Bad-Version.cpp) |Easy|
