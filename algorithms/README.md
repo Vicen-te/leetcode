@@ -12,6 +12,7 @@
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](./cpp/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) |Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](./cpp/169-Majority-Element.cpp) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./cpp/189-Rotate-Array.cpp) |Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [C++](./cpp/229-Majority-Element-II.cpp) |Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [C++](./cpp/237-Delete-Node-in-a-Linked-List.cpp) |Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./cpp/278-First-Bad-Version.cpp) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./cpp/283-Move-Zeroes.cpp) |Easy|
