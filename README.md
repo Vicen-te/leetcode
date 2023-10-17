@@ -13,8 +13,9 @@ LeetCode
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./algorithms/cpp/19-Remove-Nth-Node-From-End-of-List.cpp) |Medium|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](./algorithms/cpp/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp) |Medium|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./algorithms/cpp/35-Search-Insert-Position.cpp) |Easy|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./algorithms/cpp/118.-Pascal's-Triangle.cpp) |Easy|
-|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](./algorithms/cpp/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) |Medium|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./algorithms/cpp/118-Pascal's-Triangle.cpp) |Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./algorithms/cpp/119-Pascal's-Triangle-II.cpp) |Easy|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](./algorithms/cpp/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) |
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](./algorithms/cpp/169-Majority-Element.cpp) |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./algorithms/cpp/189-Rotate-Array.cpp) |Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [C++](./algorithms/cpp/229-Majority-Element-II.cpp) |Medium|
