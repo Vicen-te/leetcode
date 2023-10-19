@@ -24,6 +24,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++]( ./cpp/392-Is-Subsequence.cpp) |Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++]( ./cpp/557-Reverse-Words-in-a-String-III.cpp) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./cpp/704-Binary-Search.cpp) |Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [C++]( ./cpp/844-Backspace-String-Compare.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++]( ./cpp/876-Middle-of-the-Linked-List.cpp) |Easy|
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)| [C++]( ./cpp/880-Decoded-String-at-Index.cpp) |Medium|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [C++]( ./cpp/896-Monotonic-Array.cpp) |Easy|
