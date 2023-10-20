@@ -18,6 +18,7 @@
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [C++](./cpp/237-Delete-Node-in-a-Linked-List.cpp) |Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./cpp/278-First-Bad-Version.cpp) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./cpp/283-Move-Zeroes.cpp) |Easy|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)| [C++]( ./cpp/341-Flatten-Nested-List-Iterator.cpp) |Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++]( ./cpp/344-Reverse-String.cpp) |Easy|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| [C++]( ./cpp/377-Combination-Sum-IV.cpp) |Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [C++]( ./cpp/389-Find-the-Difference.cpp) |Easy|
