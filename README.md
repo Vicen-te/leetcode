@@ -23,6 +23,7 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./algorithms/cpp/278-First-Bad-Version.cpp) |Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](./algorithms/cpp/283-Move-Zeroes.cpp) |Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)| [C++]( ./algorithms/cpp/341-Flatten-Nested-List-Iterator.cpp) |Medium|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [C++]( ./algorithms/cpp/342-Power-of-Four.cpp) |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++]( ./algorithms/cpp/344-Reverse-String.cpp) |Easy|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| [C++]( ./algorithms/cpp/377-Combination-Sum-IV.cpp) |Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [C++]( ./algorithms/cpp/389-Find-the-Difference.cpp) |Easy|

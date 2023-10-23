@@ -25,13 +25,13 @@
  * 
  *      If res matches the expected flattened list, then your code will be judged as correct.
  * 
- *      Ex2.
+ *      Ex1.
  *          Input: nestedList = [[1,1],2,[1,1]]
  *          Output: [1,1,2,1,1]
  *          Explanation: By calling next repeatedly until hasNext returns false, the order of
  *          elements returned by next should be: [1,1,2,1,1].
  * 
- *      Ex3.
+ *      Ex2.
  *          Input: nestedList = [1,[4,[6]]]
  *          Output: [1,4,6]
  *          Explanation: By calling next repeatedly until hasNext returns false, the order of
