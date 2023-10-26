@@ -31,6 +31,7 @@ LeetCode
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)| [C++]( ./algorithms/cpp/515-Find-Largest-Value-in-Each-Tree-Row.cpp) |Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++]( ./algorithms/cpp/557-Reverse-Words-in-a-String-III.cpp) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./algorithms/cpp/704-Binary-Search.cpp) |Easy|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)| [C++]( ./algorithms/cpp/779-K-th-Symbol-in-Grammar.cpp) |Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [C++]( ./algorithms/cpp/844-Backspace-String-Compare.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++]( ./algorithms/cpp/876-Middle-of-the-Linked-List.cpp) |Easy|
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)| [C++]( ./algorithms/cpp/880-Decoded-String-at-Index.cpp) |Medium|
