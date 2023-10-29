@@ -28,6 +28,7 @@
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++]( ./cpp/557-Reverse-Words-in-a-String-III.cpp) |Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++]( ./cpp/704-Binary-Search.cpp) |Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)| [C++]( ./cpp/779-K-th-Symbol-in-Grammar.cpp) |Medium|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)| [C++]( ./cpp/823-Binary-Trees-With-Factors.cpp) |Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [C++]( ./cpp/844-Backspace-String-Compare.cpp) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [C++]( ./cpp/876-Middle-of-the-Linked-List.cpp) |Easy|
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)| [C++]( ./cpp/880-Decoded-String-at-Index.cpp) |Medium|
