@@ -41,7 +41,8 @@ LeetCode
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](./algorithms/cpp/977-Squares-of-a-Sorted-Array.cpp) |Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| [C++](./algorithms/cpp/1071-Greatest-Common-Divisor-of-Strings.cpp) |Easy|
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)| [C++](./algorithms/cpp/1095-Find-in-Mountain-Array.cpp) |Hard|
-|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./algorithms/cpp/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |Easy| 
+|1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)| [C++](./algorithms/cpp/1356-Sort-Integers-by-The-Number-of-1-Bits.cpp) |Easy|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./algorithms/cpp/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C++](./algorithms/cpp/1768-Merge-Strings-Alternately.cpp) |Easy| 
 
 ========
