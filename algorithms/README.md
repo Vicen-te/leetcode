@@ -40,3 +40,4 @@
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)| [C++](./cpp/1356-Sort-Integers-by-The-Number-of-1-Bits.cpp) |Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./cpp/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |Easy| 
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C++](./cpp/1768-Merge-Strings-Alternately.cpp) |Easy| 
+|2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| [C++](./cpp/2265-Count-Nodes-Equal-to-Average-of-Subtree.cpp) |Medium|
