@@ -45,6 +45,7 @@ LeetCode
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./algorithms/cpp/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C++](./algorithms/cpp/1768-Merge-Strings-Alternately.cpp) |Easy| 
 |1912|[Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/)| [C++](./algorithms/cpp/1912-Design-Movie-Rental-System.cpp) |Hard|
+|2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/)| [C++](./algorithms/cpp/2221-Find-Triangular-Sum-of-an-Array.cpp) |Medium|
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| [C++](./algorithms/cpp/2265-Count-Nodes-Equal-to-Average-of-Subtree.cpp) |Medium|
 
 ========
