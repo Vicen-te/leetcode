@@ -46,6 +46,7 @@ LeetCode
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [C++](./algorithms/cpp/1768-Merge-Strings-Alternately.cpp) |Easy| 
 |1912|[Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/)| [C++](./algorithms/cpp/1912-Design-Movie-Rental-System.cpp) |Hard|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)| [C++](./algorithms/cpp/2011-Final-Value-of-Variable-After-Performing-Operations.cpp) |Easy|
+|2125|[Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)| [C++](./algorithms/cpp/2125-Number-of-Laser-Beams-in-a-Bank.cpp) |Medium|
 |2221|[Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)| [C++](./algorithms/cpp/2221-Find-Triangular-Sum-of-an-Array.cpp) |Medium|
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| [C++](./algorithms/cpp/2265-Count-Nodes-Equal-to-Average-of-Subtree.cpp) |Medium|
 
